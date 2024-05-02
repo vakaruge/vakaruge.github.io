@@ -11,7 +11,7 @@ Vakaruge hosts various activities and games that can be participated by members 
 - Leveraged by sweet rewards (money! :moneybag:)
 
 ## Activities and Games?
-Since everyone has a busy IRL schedule, it was decided that the activities and games carried out will be relatively non-cumbersome. Things that can be carried out during free time or on breaks during or aftr office hours. And also provide plenty of time to complete them so that one is not overwhelmed by them.
+Since everyone has a busy IRL schedule, it was decided that the activities and games carried out will be relatively non-cumbersome. Activities that can be carried out during free time or on breaks during or aftr office hours. And also provide plenty of time to complete them so that one is not overwhelmed by them.
 
 ## Who is organizing all this?
 Please just like you and me, who dreams of a better ICT sector in Maldives, and better conditions for all fellow community members! Behind the scenes, it is funded by generous benefactors who loves the Maldivian ICT community and wishes the best for them.
