@@ -37,6 +37,8 @@ Yes
   <summary>Like how much money we talking?</summary>
 Will be stated for each activity
 </details>
+
+<footer>2024 Vakaruge</footer>
 <details>
   <summary>But really, who is organizing all this?</summary>
 <a href="https://t.me/rootsysadmin">Cat</a>  currently oversees the project, along with a team of three. Administrative support is provided by <a href="https://micta.ngo">MICTA</a> 
