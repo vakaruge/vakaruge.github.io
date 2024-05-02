@@ -6,7 +6,7 @@ Vakaruge is a project born with the desire to enagae the Maldivian IT community 
 \<add here\>
 
 ## What is this about?
-Vakaruge hosts various activities and games that can be participated by members of different fields in the IT community. At the end of the each activity, a winner will be chosen and given a sweet reward. The goal for doing all of this is for a bunch of reasons such as, but not limited to:
+Vakaruge hosts various activities and games that can be participated by members of different fields in the IT community. At the end of the each activity, a winner will be chosen and given a sweet reward. Through it all, participants and interested parties will be encouraged to gather physically to socialize and network. The goal for doing all of this is for a bunch of reasons such as, but not limited to:
 - Promote socialising with fellow tech community
 - Inspire collaboration
 - Encourage touching grass (go out and meet people at least once a while)
