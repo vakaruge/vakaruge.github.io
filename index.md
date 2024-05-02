@@ -19,18 +19,18 @@ Please just like you and me, who dreams of a better ICT sector in Maldives, and 
 ## Q&A
 <details>
   <summary>But really. Who are the benefactors?</summary>
-  They wish to remain anonymous
+They wish to remain anonymous
 </details>
 <details>
   <summary>Are there really going to be monetary rewards?</summary>
-  Yes
+Yes
 </details>
 <details>
   <summary>Like how much money we talking?</summary>
-  Will be stated for each activity
+Will be stated for each activity
 </details>
 <details>
-  <summary>Who is organizing all this?</summary>
-  [Cat](https://t.me/rootsysadmin) currently oversees the project. Administrative support is provided by [MICTA](https://micta.ngo)
+  <summary>But really, who is organizing all this?</summary>
+[Cat](https://t.me/rootsysadmin) currently oversees the project. Administrative support is provided by [MICTA](https://micta.ngo)
 </details>
 [GitHub Pages](https://pages.github.com/)
