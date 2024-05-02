@@ -1,7 +1,7 @@
 # Vakaruge
 Vakaruge is a project born with the desire to engage the Maldivian IT community in creative activities, collaboration, socializing, enjoyment, and the most important of all - Making friends along the way.
 
-## Ongoing Events
+## Ongoing and Upcoming Events
 \<add here\>
 
 ## What is this about?
