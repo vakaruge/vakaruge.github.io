@@ -21,6 +21,9 @@ Since everyone has a busy IRL schedule, it was decided that the activities and g
 *Scavenger hunts, 
 And many more!
 
+## How to participate
+New events dates will be announced on popular local IT community groups such as MV Developers, ICT Maldives and Women In Tech. Events details will be published and listed on Ongoing Activities above. Due to the nature od diffirent types of activities, participating methods will be diffirent and will be detailed with each event. 
+
 ## Who is organizing all this?
 Just regular folks like you and me, passionate about shaping the ICT scene in the Maldives and creating a better community for all. And behind the curtain, we’ve got some awesome benefactors who are all in on supporting the Maldivian tech community and helping us make waves.
 
