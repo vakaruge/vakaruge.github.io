@@ -25,7 +25,7 @@ Since everyone has a busy IRL schedule, it was decided that the activities and g
 New event dates will be announced on popular local IT community groups such as MV Developers, ICT Maldives and Women In Tech. Event details will be published and listed on Ongoing Activities above. Each activity will detail how to participate. 
 
 ## Who is organizing all this?
-Just regular folks like you and me, passionate about shaping the ICT scene in the Maldives and creating a better community for all. And behind the curtain, we’ve got some awesome benefactors who are all in on supporting the Maldivian tech community and helping us make waves.
+Just regular folks like you and me, passionate about shaping the ICT scene in the Maldives and creating a better community for all. And behind the curtain, we’ve got some awesome benefactors who are all in on supporting the Maldivian tech community and helping us make waves. The project does not belong to a specific person or a group of people. Anyone with a passion to help the community is welcome to join, contribute, and keep the momentum going. 
 
 ## Q&A
 <details>
