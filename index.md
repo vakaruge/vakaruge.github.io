@@ -11,7 +11,7 @@ Vakaruge hosts various activities and games that can be participated by members 
 - Leveraged by sweet rewards (money! :moneybag:)
 
 ## Ongoing Events
-<add here>
+\<add here\>
 
 ## Activities and Games?
 Since everyone has a busy IRL schedule, it was decided that the activities and games carried out will be relatively non-cumbersome. Activities that can be carried out during free time or on breaks during or aftr office hours. And also provide plenty of time to complete them so that one is not overwhelmed by them. Some of this include:
