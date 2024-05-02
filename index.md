@@ -8,4 +8,4 @@ A bunch of things
 - Promote collaboration
 - Encourage socialising go out and meet people at least once a while
 - Engage in healthy compeition
-- Leveraged by sweet rewards <sup><sup>And by rewards, it means money!</sup></sup>
+- Leveraged by sweet rewards (money! :moneybag:)
