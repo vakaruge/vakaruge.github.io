@@ -31,6 +31,7 @@ Will be stated for each activity
 </details>
 <details>
   <summary>But really, who is organizing all this?</summary>
+  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 [Cat](https://t.me/rootsysadmin) currently oversees the project. Administrative support is provided by [MICTA](https://micta.ngo)
 </details>
 [GitHub Pages](https://pages.github.com/)
