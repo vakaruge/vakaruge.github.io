@@ -29,7 +29,7 @@ For those in a generous mood, adding to the reward pool, of course, will be awe 
 
 # Regarding vakaruge
 As said before, this is not a strictly business platform. Rather, this is just a place for us IT community to gather, exchange ideas, participate in activities and have fun in the process. There are no strict participation requirements and guidelines. What we are doing is not for making a huge impact. Rather, it is for making friends, having a coffee and doing things we always loved doing. 
-Having said that, we are also hoping that with initiative such as this, as a side effect, will hopefully bolster the ICT community and the ICT industry as a whole. We believe that there is simply not enough social interactions ang engagement between us tech folks in Maldives. Turning it around would be a win-win situation for all parties involved - for finding like-minded people, for employers and employees, and for us, for the love of our craft.
+Having said that, we are also hoping that with initiatives such as this, as a side effect, will hopefully bolster the ICT community and the ICT industry as a whole. We believe that there is simply not enough social interactions ang engagement between us tech folks in Maldives. Turning it around would be a win-win situation for all parties involved - for finding like-minded people, for employers and employees, and for us, for the love of our craft.
 
 
 # Potential questions and their answers
