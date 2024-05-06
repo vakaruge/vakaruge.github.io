@@ -29,7 +29,7 @@ For those in a generous mood, adding to the reward pool, of course, will be awe 
 
 # Regarding vakaruge
 As said before, this is not a strictly business platform. Rather, this is just a place for us IT community to gather, exchange ideas, participate in activities and have fun in the process. There are no strict participation requirements and guidelines. What we are doing is not for making a huge impact. Rather, it is for making friends, having a coffee and doing things we always loved doing. 
-Having said that, we are also hoping that with initiatives such as this, as a side effect, will hopefully bolster the ICT community and the ICT industry as a whole. We believe that there is simply not enough social interactions ang engagement between us tech folks in Maldives. Turning it around would be a win-win situation for all parties involved - for finding like-minded people, for employers and employees, and for us, for the love of our craft.
+Having said that, we are also hoping that with initiatives such as this, as a side effect, will hopefully bolster the ICT community and the ICT industry as a whole. We believe that there is simply not enough social interactions and engagement between us tech folks in Maldives. Turning it around would be a win-win situation for all parties involved - for finding like-minded people, for employers and employees, and for us who is in it for the love of our craft.
 
 
 # Potential questions and their answers
@@ -43,7 +43,7 @@ Money
 </details>
 <details>
   <summary>who is organizing this?</summary>
-By a group of techines like us. <a href="https://t.me/rootsysadmin">Cat</a>  currently oversees things, along with a team of three. Administrative and paperwork support (where required) is provided by <a href="https://micta.ngo">MICTA</a> 
+By a group of techines like us. <a href="https://t.me/rootsysadmin">Cat</a>  currently oversees things, along with a team of others. Administrative and paperwork support (where required) is provided by <a href="https://micta.ngo">MICTA</a> 
 </details>
 
 <hr />
