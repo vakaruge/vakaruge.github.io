@@ -14,7 +14,7 @@ We are going to host various activities and games that techs of different fields
 - get rewarded for inspiring work
 
 # What sort of activities
-Since everyone has a busy IRL schedule, we decided that the activities and games carried out will be relatively non-cumbersome. Things that can be done during free time or on breaks during or after office hours. And also provide plenty of time to complete them so that you are not overwhelmed by them. Thins can be things such as
+Since everyone has a busy IRL schedule, we decided that the activities and games carried out will be relatively non-cumbersome. Things that can be done during free time or on breaks during or after office hours. And also provide plenty of time to complete them so that you are not overwhelmed by them. This can be things such as
 - mini hackathon-type events (but with twists)
 - creating proposals for interesting projects
 - CTF-type hacking events
