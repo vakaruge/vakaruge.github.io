@@ -2,7 +2,7 @@
 
 One day some techies sat down for a coffee and semi-agreed that we as a community is too stagnant and is not doing much. With the opposing dilemmas of "everyone is too busy" and "want to contribute to the society", we decided to meet in the middle. That is, create something that everyone can get on in, that doesn't take too much time or effort, but still be engaged as a community and makes friends along the way.
 
-# Ongoing/upcoming event
+# Ongoing/upcoming events
 \<event details\>
 
 # What it is about
