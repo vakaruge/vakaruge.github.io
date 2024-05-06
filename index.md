@@ -6,7 +6,7 @@ One day some techies sat down for a coffee and semi-agreed that we as a communit
 \<event details\>
 
 # What it is about
-We are going to host various activities and games that techs of different fields in the IT community can take part in at your own pace. At the end of each activity, a winner will be chosen and given a sweet reward. But why do something like this? We realized there are multiple reasons, including but not limited to
+We are going to host various activities and games that techs of different fields in the IT community can take part in at their own pace. At the end of each activity, a winner will be chosen and given a sweet reward. But why do something like this? We realized there are multiple reasons, including but not limited to
 - making people engage more as a community
 - motivate collaboration between us
 - encourage touching grass, go out and meet physically once a while
