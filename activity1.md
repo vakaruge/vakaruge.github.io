@@ -21,7 +21,7 @@ Now that you know what the task is at hand, you can get on working on it as you 
 - the pitch is announced (already happened because you are reading this page, which itself is the pitch)
 - start working on your designs. In the meantime, participate in the group discussion for further clarifications
 - submitting the works before the deadline is hit
-- we will showcase everything to the public and open for voting
+- submissions will be showcased to the public and open for voting
 - a winner is selected based on the vote results
 - winner is awarded the cash prize
 - winner is also given a certificate
@@ -29,19 +29,18 @@ Now that you know what the task is at hand, you can get on working on it as you 
 - task is completed and wait for the announcement of the next pitch
 
 ## Submission
-Send us your submissions in whatever format or method is comfortable and applicable. It can be telegram uploads, links to cloud storages, etc. Submissions are to be made to vakaruge telegram contact at: \<Number and ID\>
-You can give your project a name. That name will be used during voting. Otherwise the submitters telegram ID/Name will be used to identify the project.
+Submission is in the fomr of BYOH (Bring your own hosting). Send your submissions as a link to a website, figma page, whatever vakaruge telegram contact at: \<Number and ID\>
 
 ## Deadline
-23 May 2024 23\:59\:59
+<date> 23\:59\:59
 
 ## Reward
 MVR 3333/-
 
 ## Voting:
-Voting will open once we can get around hosting all the submissions in a way that can be viewable by the public. So it can be anything from a day to a week (or even more) depending on the number of submissions.
-After voting is open, people can vote within 2 days. However, the voting period will be longer if there are too many submissions (to give time for voters to view them all and make their decision)
-The name of the submitters will be hidden during voting. Rather, it will be anonymized as "Design 1" "Design 2" etc to minimize bias. Once the voting is closed, the names will be unanonymized. The full list of the submissions and links to them will be made available on this page (or a separate page?
+Voting will open once everything is in order. usually this means getting the list of all the submissions in once place and making a telegram poll out of it. 
+After voting is open, the public can vote within 2 days. However, the voting period will be longer if there are too many submissions (to give time for voters to view them all and make their decision)
+The name of the submitters will be hidden during voting. Rather, it will be anonymized as "Design 1" "Design 2" or something similar to minimize bias. Once the voting is closed, the names will be unanonymized. The full list of the submissions and links to them will be made available on this page (or a separate page?
 
 ## For the voters
 While you are free to vote as you see fit, here are some things that can be considered for voting:
@@ -76,6 +75,11 @@ No
 
 <details>
   <summary>Can i submit after the deadline?</summary>
+Would prefer if you didn't
+</details>
+
+<details>
+  <summary>Can i advertise my project publicly to get more votes?</summary>
 Would prefer if you didn't
 </details>
 
