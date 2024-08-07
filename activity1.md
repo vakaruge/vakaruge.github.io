@@ -4,9 +4,7 @@
 The \<insert website\> is one of the most frequently used websites by people and companies alike. Its appearance has been unchanged for quite a while now and we want to see your take on what you want the site to look like 
 
 ## What is needed
-The design can be made in any software, stack, or platform you like, with the only requirement being that it must be something that can be made publicly viewable so that people can vote on them. For instance:
-- If it is a figma design, provide us with a copy of the figma export. links to your own figma is understandably sketchy since it can be edited even after the deadline is hit. So we will need to import and host it ourselves.
-- Same goes for website front-end designs.
+The design can be made in any software, stack, or platform you like, with the only requirement being that it must be something that can be publicly viewable so that people can vote on them after looking at it. For instance, figma designs, hosted demos
 
 ## Basic rules
 While there are no strict rules to this, there are two things to keep in mind:
@@ -79,8 +77,13 @@ Would prefer if you didn't
 </details>
 
 <details>
+    <summary>Can i modify the design after the deadline?</summary>
+Would prefer if you didn't do that either
+</details>
+
+<details>
   <summary>Can i advertise my project publicly to get more votes?</summary>
-Would prefer if you didn't
+dont
 </details>
 
 <details>
